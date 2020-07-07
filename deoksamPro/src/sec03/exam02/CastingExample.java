@@ -1,4 +1,4 @@
-package sec03.exma02;
+package sec03.exam02;
 
 public class CastingExample {
 

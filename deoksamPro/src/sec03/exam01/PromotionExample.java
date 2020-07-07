@@ -1,4 +1,4 @@
-package sec03.exma01;
+package sec03.exam01;
 
 public class PromotionExample {
 
