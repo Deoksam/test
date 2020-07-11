@@ -7,9 +7,9 @@ public class NullExample {
 		
 		String hobby = null;
 		String name = "È¨ÀÚ¹Ù";
-		name = null;
+	//	name = null;
 		
-		System.out.println(hobby.length());
+//		System.out.println(hobby.length());
 		System.out.println(name.length());
 	}
 
